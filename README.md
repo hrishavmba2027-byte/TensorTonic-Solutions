@@ -60,6 +60,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | LIMIT and OFFSET | Use SQL ORDER BY, LIMIT, and OFFSET to return the second through fourth highest-revenue sales with tie-breaking. | https://www.tensortonic.com/study-plans/sql-basics/sql/sql-limit-offset |
 | Multiple Joins | Join users, experiment assignments, and conversion events in SQL to report converted users, variants, and revenue. | https://www.tensortonic.com/study-plans/sql-basics/sql/sql-multiple-joins |
 | Nested Aggregations | Use a SQL subquery or CTE to compute daily order totals, average daily revenue, and the busiest day. | https://www.tensortonic.com/study-plans/sql-basics/sql/sql-nested-aggregations |
+| ROW_NUMBER | Assign deterministic per-segment activity ranks with SQL ROW_NUMBER ordered by engagement score and username. | https://www.tensortonic.com/study-plans/sql-basics/sql/sql-row-number |
 | Self Join | Use a SQL self join to pair users with their referrers while labeling organic signups without a referral. | https://www.tensortonic.com/study-plans/sql-basics/sql/sql-self-join |
 
 View my verified ML profile: [TensorTonic profile](https://www.tensortonic.com/profile/hrishavmba2027)
